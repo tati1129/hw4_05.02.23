@@ -1,0 +1,9 @@
+.info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(6, 6, 132);
+}

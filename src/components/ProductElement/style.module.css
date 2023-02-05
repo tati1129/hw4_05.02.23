@@ -1,0 +1,64 @@
+.card{
+    width: 200px;
+    height: 350px;
+    margin: 20px;
+    padding: 20px;
+    border: 0.01px solid  rgb(182, 214, 242);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(6, 6, 132);
+    background-color: rgb(236, 243, 249);
+    border-radius: 20px;
+    box-shadow: 8px 3px 3px 3px rgba(107, 134, 146, 0.5);
+    display: flex;
+
+    justify-content: space-around;
+    align-items: stretch;
+    flex-direction: column;
+}
+
+
+.image{
+    margin-left: 10px;
+    border-radius: 10px;
+    max-width: calc(100% - 20px);
+    height: calc(100% - 100px);
+    display: flex;
+    flex-direction: column;
+}
+.img{
+    
+     border-radius: 10%;
+}
+.price{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.price_normal{
+    color: black;
+    text-decoration: line-through;
+}
+.price_discount{
+    color: red;
+}
+.btn{
+    width: 100px;
+   border-radius: 20px;
+   border: 0.3px solid black;
+    
+}
+.btn:active{
+    background-color: rgb(250, 89, 89);
+    transition: 0.3ms;
+    color: white;
+    font-size: 18px;
+}
+.button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.title{
+    font-weight: bold;
+}
