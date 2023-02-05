@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tati1129.github.io/hw4_05.02.23/static/css/main.de3fd695.css",
-    "main.js": "/tati1129.github.io/hw4_05.02.23/static/js/main.b9b3bad3.js",
-    "index.html": "/tati1129.github.io/hw4_05.02.23/index.html",
-    "main.de3fd695.css.map": "/tati1129.github.io/hw4_05.02.23/static/css/main.de3fd695.css.map",
-    "main.b9b3bad3.js.map": "/tati1129.github.io/hw4_05.02.23/static/js/main.b9b3bad3.js.map"
+    "main.css": "/hw4_05.02.23/static/css/main.de3fd695.css",
+    "main.js": "/hw4_05.02.23/static/js/main.b9b3bad3.js",
+    "index.html": "/hw4_05.02.23/index.html",
+    "main.de3fd695.css.map": "/hw4_05.02.23/static/css/main.de3fd695.css.map",
+    "main.b9b3bad3.js.map": "/hw4_05.02.23/static/js/main.b9b3bad3.js.map"
   },
   "entrypoints": [
     "static/css/main.de3fd695.css",
